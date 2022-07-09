@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>https://lyluongha99.github.io/luongha99.github.io</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Thu, 19 Nov 2015 10:26:13 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 05 Jul 2022 15:02:42 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,63 +20,49 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0</generator>
 	<item>
-		<title>Welcome to Flatsome</title>
-		<link>https://lyluongha99.github.io/luongha99.github.io/2015/11/19/welcome-to-flatsome/</link>
-					<comments>https://lyluongha99.github.io/luongha99.github.io/2015/11/19/welcome-to-flatsome/#respond</comments>
+		<title>Pellentesque In Sapien Sit Amet Dui Euismod Auctor At Eu Justo.</title>
+		<link>https://lyluongha99.github.io/luongha99.github.io/2015/11/19/pellentesque-in-sapien-sit-amet-dui-euismod-auctor-at-eu-justo/</link>
+					<comments>https://lyluongha99.github.io/luongha99.github.io/2015/11/19/pellentesque-in-sapien-sit-amet-dui-euismod-auctor-at-eu-justo/#respond</comments>
 		
 		<dc:creator><![CDATA[luongha]]></dc:creator>
 		<pubDate>Thu, 19 Nov 2015 10:26:13 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">http://flatsome.dev/?p=1</guid>
 
-					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start blogging! Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam [...]]]></description>
-										<content:encoded><![CDATA[<p class="lead">Welcome to WordPress. This is your first post. Edit or delete it, then start blogging!</p>
-<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
-<blockquote><p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p></blockquote>
-<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
-]]></content:encoded>
+					<description><![CDATA[Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque rutrum iaculis tortor, laoreet lobortis magna posuere facilisis. Aenean consectetur tempus bibendum. Sed nec vestibulum lacus. Nullam aliquet pretium consequat. Pellentesque in sapien sit amet dui euismod auctor at eu justo. Nunc pulvinar maximus rhoncus. Aliquam feugiat aliquet odio, nec volutpat [...]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="32" class="elementor elementor-32">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-bfc8a82 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="bfc8a82" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a55468e" data-id="a55468e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-0547c1f elementor-widget elementor-widget-text-editor" data-id="0547c1f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.6.6 - 08-06-2022 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<div class="article-template__content rte">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque rutrum iaculis tortor, laoreet lobortis magna posuere facilisis. Aenean consectetur tempus bibendum. Sed nec vestibulum lacus. Nullam aliquet pretium consequat. Pellentesque in sapien sit amet dui euismod auctor at eu justo. Nunc pulvinar maximus rhoncus. Aliquam feugiat aliquet odio, nec volutpat nunc tincidunt ac. Curabitur sem risus, volutpat sit amet rhoncus sed, sollicitudin vitae sapien. Ut pharetra lectus sit amet lacus faucibus, non feugiat diam ultricies. In luctus lacus condimentum leo porttitor, eu ultrices mi iaculis. Donec eu aliquet urna, nec auctor orci. Quisque sit amet mauris eget risus suscipit sollicitudin. Sed tincidunt luctus augue, sed fringilla massa consectetur sit amet. Mauris nisi enim, maximus in tristique quis, faucibus sed neque.</div>
+<div class="tag-section"> </div>
+<div class="article-template__social-sharing"> </div>						</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-81222a4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="81222a4" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-bcff16b" data-id="bcff16b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2958fb2 elementor-widget elementor-widget-heading" data-id="2958fb2" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.6.6 - 08-06-2022 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-default"><a href="https://lyluongha99.github.io/luongha99.github.io/blog-2/">←Back to blog</a></h2>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
 					
-					<wfw:commentRss>https://lyluongha99.github.io/luongha99.github.io/2015/11/19/welcome-to-flatsome/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Just another post with A Gallery</title>
-		<link>https://lyluongha99.github.io/luongha99.github.io/2015/10/13/velkommen-til-bloggen-min/</link>
-					<comments>https://lyluongha99.github.io/luongha99.github.io/2015/10/13/velkommen-til-bloggen-min/#respond</comments>
-		
-		<dc:creator><![CDATA[luongha]]></dc:creator>
-		<pubDate>Tue, 13 Oct 2015 21:13:41 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">http://localhost:8888/flatsome-next/?p=5</guid>
-
-					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sed vulputate massa. Fusce ante magna, iaculis ut purus ut, facilisis ultrices nibh. Quisque commodo nunc eget tortor dapibus, et tristique magna convallis. Phasellus egestas nunc eu venenatis vehicula. Phasellus et magna nulla. Proin ante nunc, mollis a lectus ac, volutpat placerat ante. Vestibulum sit amet [...]]]></description>
-										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sed vulputate massa. Fusce ante magna, iaculis ut purus ut, facilisis ultrices nibh. Quisque commodo nunc eget tortor dapibus, et tristique magna convallis. Phasellus egestas nunc eu venenatis vehicula. Phasellus et magna nulla. Proin ante nunc, mollis a lectus ac, volutpat placerat ante. Vestibulum sit amet magna sit amet nunc faucibus mollis. Aliquam vel lacinia purus, id tristique ipsum. Quisque vitae nibh ut libero vulputate ornare quis in risus. Nam sodales justo orci, a bibendum risus tincidunt id. Etiam hendrerit, metus in volutpat tempus, neque libero viverra lorem, ac tristique orci augue eu metus. Aenean elementum nisi vitae justo adipiscing gravida sit amet et risus. Suspendisse dapibus elementum quam, vel semper mi tempus ac.</p>
-
-]]></content:encoded>
-					
-					<wfw:commentRss>https://lyluongha99.github.io/luongha99.github.io/2015/10/13/velkommen-til-bloggen-min/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>A Simple Blog Post</title>
-		<link>https://lyluongha99.github.io/luongha99.github.io/2015/10/13/a-simple-blog-post/</link>
-					<comments>https://lyluongha99.github.io/luongha99.github.io/2015/10/13/a-simple-blog-post/#respond</comments>
-		
-		<dc:creator><![CDATA[luongha]]></dc:creator>
-		<pubDate>Tue, 13 Oct 2015 19:28:03 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">http://localhost:8888/flatsome-next/?p=1</guid>
-
-					<description><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus Typi non habent claritatem insitam; est [...]]]></description>
-										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus</p>
-<p>Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://lyluongha99.github.io/luongha99.github.io/2015/10/13/a-simple-blog-post/feed/</wfw:commentRss>
+					<wfw:commentRss>https://lyluongha99.github.io/luongha99.github.io/2015/11/19/pellentesque-in-sapien-sit-amet-dui-euismod-auctor-at-eu-justo/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
