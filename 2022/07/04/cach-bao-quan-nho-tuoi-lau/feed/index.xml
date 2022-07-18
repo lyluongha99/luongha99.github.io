@@ -11,11 +11,11 @@
 	<atom:link href="http://localhost/myproject/wordpress/2022/07/04/cach-bao-quan-nho-tuoi-lau/feed/" rel="self" type="application/rss+xml" />
 	<link>https://lyluongha99.github.io/luongha99.github.io/2022/07/04/cach-bao-quan-nho-tuoi-lau/</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Sat, 09 Jul 2022 06:37:25 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 18 Jul 2022 14:14:53 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0</generator>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
 </channel>
 </rss>

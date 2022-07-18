@@ -7,15 +7,15 @@
 	>
 <channel>
 	<title>
-	Các phản hồi luận về: Pumpkin Green &#8211; Cut	</title>
+	Các phản hồi luận về: Pumpkin Green	</title>
 	<atom:link href="http://localhost/myproject/wordpress/san-pham/pumpkin-green-cut/feed/" rel="self" type="application/rss+xml" />
 	<link>https://lyluongha99.github.io/luongha99.github.io/san-pham/pumpkin-green-cut/</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Mon, 11 Jul 2022 04:24:31 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 17 Jul 2022 10:20:07 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0</generator>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
 </channel>
 </rss>
